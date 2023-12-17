@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.lang.reflect.Array;
 import java.util.*;
 
-public class bj_1744 {
+public class bj_1912 {
 
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
