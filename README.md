@@ -24,6 +24,6 @@
   - [폴리오미노](https://www.acmicpc.net/problem/1343) - O  23.12.12
 - 2023.12.15 ~ 2023.12.20
     - [음식물 피하기](https://www.acmicpc.net/problem/1743) - O 23.12.17
-    - [연속합](https://www.acmicpc.net/problem/1912)
+    - [연속합](https://www.acmicpc.net/problem/1912) - O 23.12.17
     - [나이트의 이동](https://www.acmicpc.net/problem/7562)
     - [수 묶기](https://www.acmicpc.net/problem/1744)
