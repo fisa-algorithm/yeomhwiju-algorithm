@@ -18,7 +18,12 @@
     - [백준 1620 - 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 - 2023.12.7 ~ 2023 12.14
   - [DFS와 BFS](https://www.acmicpc.net/problem/1260) - O 23.12.11
-  - [소문난 칠공주](https://www.acmicpc.net/problem/1941)  
+  - [소문난 칠공주](https://www.acmicpc.net/problem/1941)  - 완탐 공부 후 풀기
   - [계단 오르기](https://www.acmicpc.net/problem/2579) - O 23.12.14
-  - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - 완탐 공부 후 풀기
   - [폴리오미노](https://www.acmicpc.net/problem/1343) - O  23.12.12
+- 2023.12.15 ~ 2023.12.20
+    - [음식물 피하기](https://www.acmicpc.net/problem/1743) - O 23.12.17
+    - [연속합](https://www.acmicpc.net/problem/1912)
+    - [나이트의 이동](https://www.acmicpc.net/problem/7562)
+    - [수 묶기](https://www.acmicpc.net/problem/1744)
