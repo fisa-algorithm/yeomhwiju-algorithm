@@ -7,9 +7,9 @@
   
 -  2023 11.27 ~ 2023.11.30 (4문제)
    - [백준_2800 - 괄호 제거](https://www.acmicpc.net/problem/2800)
-   -  [백준_10799 - 쇠막대기](https://www.acmicpc.net/problem/10799)
+   -  [백준_10799 - 쇠막대기](https://www.acmicpc.net/problem/10799) O
    - [백준_1158 - 요세푸스](https://www.acmicpc.net/problem/1158)
-   - [백준_10845 - 큐](https://www.acmicpc.net/problem/10845)
+   - [백준_10845 - 큐](https://www.acmicpc.net/problem/10845) O
 
 - 2023.11.31 ~ 2023.12.7 (4문제)
     - [백준 2447 - 별찍기 -10](https://www.acmicpc.net/problem/2447)
