@@ -15,7 +15,7 @@
     - [백준 2447 - 별찍기 -10](https://www.acmicpc.net/problem/2447)
     - [백준 22862 - 가장 긴 짝수 연속한 부분 수열](https://www.acmicpc.net/problem/22862)
     - [백준 10815 - 숫자 카드](https://www.acmicpc.net/problem/10815)
-    - [백준 1620 - 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+    - [백준 1620 - 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) - O 23.12.26
 - 2023.12.7 ~ 2023 12.14
   - [DFS와 BFS](https://www.acmicpc.net/problem/1260) - O 23.12.11
   - [소문난 칠공주](https://www.acmicpc.net/problem/1941)  - 완탐 공부 후 풀기
