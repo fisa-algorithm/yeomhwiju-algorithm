@@ -27,3 +27,10 @@
     - [연속합](https://www.acmicpc.net/problem/1912) - O 23.12.17
     - [나이트의 이동](https://www.acmicpc.net/problem/7562) - O 23.12.19
     - [수 묶기](https://www.acmicpc.net/problem/1744) - O 23.12.18
+- 2023.12.21 ~ 2023.12.28
+    - 지금까지 푼 문제 리뷰 & 풀지 못한 문제 다시 풀기
+- 2023.12.29 ~ 2023.01.04
+    - [설탕 배달](https://www.acmicpc.net/problem/2839)
+    - [색종이 만들기](https://www.acmicpc.net/problem/2630)
+    - [아기 상어](https://www.acmicpc.net/problem/16236)
+    - [보물](https://www.acmicpc.net/problem/1026) - O 23.12.228
