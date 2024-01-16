@@ -34,3 +34,8 @@
     - [색종이 만들기](https://www.acmicpc.net/problem/2630)
     - [아기 상어](https://www.acmicpc.net/problem/16236)
     - [보물](https://www.acmicpc.net/problem/1026) - O 23.12.228
+- 2024.01.12 ~ 2024.01.18
+    - [sql](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+    - [최단경로](https://www.acmicpc.net/problem/1753)
+    - [드럼](https://www.acmicpc.net/problem/30890) - O 24.01.16
+    - [손익분기점](https://www.acmicpc.net/problem/1712)
