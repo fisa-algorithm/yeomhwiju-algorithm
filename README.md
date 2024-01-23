@@ -39,3 +39,8 @@
     - [최단경로](https://www.acmicpc.net/problem/1753)
     - [드럼](https://www.acmicpc.net/problem/30890) - O 24.01.16
     - [손익분기점](https://www.acmicpc.net/problem/1712) - O 24.01.16
+- 2024.01.19 ~ 2024.01.25
+    - [sql- join](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
+    - [영화감독 숌](https://www.acmicpc.net/problem/1436)
+    - [퇴사](https://www.acmicpc.net/problem/14501) O 24.01.23
+    - [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
