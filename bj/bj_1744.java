@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.Queue;
 import java.util.concurrent.PriorityBlockingQueue;
 
-public class Main {
+public class bj_1744 {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

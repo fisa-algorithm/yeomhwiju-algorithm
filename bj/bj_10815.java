@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.StringTokenizer;
 
-public class Main {
+public class bj_10815 {
 
 	private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	private static StringBuilder sb = new StringBuilder();

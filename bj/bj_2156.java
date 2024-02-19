@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 
 
-public class Main{
+public class bj_2156{
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     

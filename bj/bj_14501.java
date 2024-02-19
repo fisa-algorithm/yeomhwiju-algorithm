@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+public class bj_14501 {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

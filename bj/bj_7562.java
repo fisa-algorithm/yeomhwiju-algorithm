@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Main{
+public class bj_7562{
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     
